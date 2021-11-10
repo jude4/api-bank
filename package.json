@@ -1,0 +1,19 @@
+{
+  "name": "api-bank",
+  "version": "1.0.0",
+  "description": "A app to get all api of any type",
+  "main": "index.html",
+  "dependencies": {
+    "vue": "^3.2.21"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss-cli": "^9.0.2",
+    "tailwindcss": "^2.2.19"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jude Onohwosafe",
+  "license": "ISC"
+}
