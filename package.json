@@ -4,6 +4,7 @@
   "description": "A app to get all api of any type",
   "main": "index.html",
   "dependencies": {
+    "axios": "^0.21.4",
     "vue": "^3.2.21"
   },
   "devDependencies": {
@@ -15,5 +16,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jude Onohwosafe",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jude4/api-bank.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jude4/api-bank/issues"
+  },
+  "homepage": "https://github.com/jude4/api-bank#readme"
 }
